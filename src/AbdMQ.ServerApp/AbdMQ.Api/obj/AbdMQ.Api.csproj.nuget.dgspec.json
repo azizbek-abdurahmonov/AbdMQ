@@ -1,0 +1,81 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PROJECTS\\AbdMQ\\src\\AbdMQ.ServerApp\\AbdMQ.Api\\AbdMQ.Api.csproj": {}
+  },
+  "projects": {
+    "D:\\PROJECTS\\AbdMQ\\src\\AbdMQ.ServerApp\\AbdMQ.Api\\AbdMQ.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PROJECTS\\AbdMQ\\src\\AbdMQ.ServerApp\\AbdMQ.Api\\AbdMQ.Api.csproj",
+        "projectName": "AbdMQ.Api",
+        "projectPath": "D:\\PROJECTS\\AbdMQ\\src\\AbdMQ.ServerApp\\AbdMQ.Api\\AbdMQ.Api.csproj",
+        "packagesPath": "C:\\Users\\azizb\\.nuget\\packages\\",
+        "outputPath": "D:\\PROJECTS\\AbdMQ\\src\\AbdMQ.ServerApp\\AbdMQ.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\azizb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\PROJECTS\\AbdMQ\\src\\AbdMQ.ServerApp\\AbdMQ.Domain\\AbdMQ.Infrastucture.csproj": {
+                "projectPath": "D:\\PROJECTS\\AbdMQ\\src\\AbdMQ.ServerApp\\AbdMQ.Domain\\AbdMQ.Infrastucture.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

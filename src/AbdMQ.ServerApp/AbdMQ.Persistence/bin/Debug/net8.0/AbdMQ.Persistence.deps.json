@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbdMQ.Persistence/1.0.0": {
+        "dependencies": {
+          "AbdMQ.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AbdMQ.Persistence.dll": {}
+        }
+      },
+      "AbdMQ.Domain/1.0.0": {
+        "runtime": {
+          "AbdMQ.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbdMQ.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbdMQ.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

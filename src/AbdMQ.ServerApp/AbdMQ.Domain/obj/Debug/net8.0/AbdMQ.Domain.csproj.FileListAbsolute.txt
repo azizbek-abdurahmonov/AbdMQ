@@ -1,0 +1,12 @@
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\bin\Debug\net8.0\AbdMQ.Domain.deps.json
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\bin\Debug\net8.0\AbdMQ.Domain.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\bin\Debug\net8.0\AbdMQ.Domain.pdb
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\AbdMQ.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\AbdMQ.Domain.AssemblyInfoInputs.cache
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\AbdMQ.Domain.AssemblyInfo.cs
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\AbdMQ.Domain.csproj.CoreCompileInputs.cache
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\AbdMQ.Domain.sourcelink.json
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\AbdMQ.Domain.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\refint\AbdMQ.Domain.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\AbdMQ.Domain.pdb
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Domain\obj\Debug\net8.0\ref\AbdMQ.Domain.dll

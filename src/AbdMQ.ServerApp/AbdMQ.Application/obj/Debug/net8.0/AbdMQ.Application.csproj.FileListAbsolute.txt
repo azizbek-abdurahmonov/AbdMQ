@@ -1,0 +1,16 @@
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\bin\Debug\net8.0\AbdMQ.Application.deps.json
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\bin\Debug\net8.0\AbdMQ.Application.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\bin\Debug\net8.0\AbdMQ.Application.pdb
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\bin\Debug\net8.0\AbdMQ.Domain.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\bin\Debug\net8.0\AbdMQ.Domain.pdb
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.csproj.AssemblyReference.cache
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.AssemblyInfoInputs.cache
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.AssemblyInfo.cs
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.csproj.CoreCompileInputs.cache
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.sourcelink.json
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.csproj.CopyComplete
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\refint\AbdMQ.Application.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\AbdMQ.Application.pdb
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Application\obj\Debug\net8.0\ref\AbdMQ.Application.dll

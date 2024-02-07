@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbdMQ.Api", "AbdMQ.Api\AbdMQ.Api.csproj", "{5B810F06-36CC-449A-A895-FEBA82CA2E7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbdMQ.Domain", "AbdMQ.Domain\AbdMQ.Domain.csproj", "{5714EEF8-1178-45FA-9E29-2C25259E126C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbdMQ.Application", "AbdMQ.Application\AbdMQ.Application.csproj", "{661C7D0A-0B8E-40B4-AA6E-9229FAB53447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbdMQ.Infrastucture", "AbdMQ.Infrastucture\AbdMQ.Infrastucture.csproj", "{730E5E10-DD0C-47FA-84B7-FF0DE61259E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbdMQ.Persistence", "AbdMQ.Persistence\AbdMQ.Persistence.csproj", "{F7FC9C39-9BAF-4DA5-8910-58B6EC70B3C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B810F06-36CC-449A-A895-FEBA82CA2E7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B810F06-36CC-449A-A895-FEBA82CA2E7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B810F06-36CC-449A-A895-FEBA82CA2E7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B810F06-36CC-449A-A895-FEBA82CA2E7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5714EEF8-1178-45FA-9E29-2C25259E126C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5714EEF8-1178-45FA-9E29-2C25259E126C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5714EEF8-1178-45FA-9E29-2C25259E126C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5714EEF8-1178-45FA-9E29-2C25259E126C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{661C7D0A-0B8E-40B4-AA6E-9229FAB53447}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{661C7D0A-0B8E-40B4-AA6E-9229FAB53447}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{661C7D0A-0B8E-40B4-AA6E-9229FAB53447}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{661C7D0A-0B8E-40B4-AA6E-9229FAB53447}.Release|Any CPU.Build.0 = Release|Any CPU
+		{730E5E10-DD0C-47FA-84B7-FF0DE61259E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{730E5E10-DD0C-47FA-84B7-FF0DE61259E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{730E5E10-DD0C-47FA-84B7-FF0DE61259E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{730E5E10-DD0C-47FA-84B7-FF0DE61259E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FC9C39-9BAF-4DA5-8910-58B6EC70B3C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FC9C39-9BAF-4DA5-8910-58B6EC70B3C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FC9C39-9BAF-4DA5-8910-58B6EC70B3C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FC9C39-9BAF-4DA5-8910-58B6EC70B3C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62D371F5-100B-4507-AEC2-C4630989B8D6}
+	EndGlobalSection
+EndGlobal

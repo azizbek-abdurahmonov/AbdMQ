@@ -1,0 +1,63 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AbdMQ.Infrastucture/1.0.0": {
+        "dependencies": {
+          "AbdMQ.Application": "1.0.0",
+          "AbdMQ.Persistence": "1.0.0"
+        },
+        "runtime": {
+          "AbdMQ.Infrastucture.dll": {}
+        }
+      },
+      "AbdMQ.Application/1.0.0": {
+        "dependencies": {
+          "AbdMQ.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AbdMQ.Application.dll": {}
+        }
+      },
+      "AbdMQ.Domain/1.0.0": {
+        "runtime": {
+          "AbdMQ.Domain.dll": {}
+        }
+      },
+      "AbdMQ.Persistence/1.0.0": {
+        "dependencies": {
+          "AbdMQ.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AbdMQ.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AbdMQ.Infrastucture/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbdMQ.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbdMQ.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AbdMQ.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

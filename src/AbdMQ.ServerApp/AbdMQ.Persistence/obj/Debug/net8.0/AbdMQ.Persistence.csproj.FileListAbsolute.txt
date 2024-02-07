@@ -1,0 +1,16 @@
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\bin\Debug\net8.0\AbdMQ.Persistence.deps.json
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\bin\Debug\net8.0\AbdMQ.Persistence.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\bin\Debug\net8.0\AbdMQ.Persistence.pdb
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\bin\Debug\net8.0\AbdMQ.Domain.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\bin\Debug\net8.0\AbdMQ.Domain.pdb
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.csproj.AssemblyReference.cache
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.AssemblyInfoInputs.cache
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.AssemblyInfo.cs
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.csproj.CoreCompileInputs.cache
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.sourcelink.json
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.csproj.CopyComplete
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\refint\AbdMQ.Persistence.dll
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\AbdMQ.Persistence.pdb
+D:\PROJECTS\AbdMQ\src\AbdMQ.ServerApp\AbdMQ.Persistence\obj\Debug\net8.0\ref\AbdMQ.Persistence.dll
